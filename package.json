@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "koi",
+  "version": "1.0.0",
+  "description": "your Cider status, anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Slash",
+  "license": "MIT",
+  "dependencies": {
+    "node-hide-console-window": "^2.2.0",
+    "node-systray-v2": "github:Edgar-P-yan/node-systray-v2"
+  }
+}
